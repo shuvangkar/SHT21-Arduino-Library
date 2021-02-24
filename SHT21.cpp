@@ -15,7 +15,7 @@
 
 #include <Arduino.h>
 #include <Wire.h>
-#include <SHT21.h>
+#include "SHT21.h"
 
 //==============================================================================
 // PUBLIC
